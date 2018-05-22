@@ -1,5 +1,11 @@
 # Week 1
 
+May 22, Sunday. [Day 3](Day_3)
+
+**Today's Progress**: Baseline for the Titanic competition on kaggle.
+
+**Thoughts** Today I made a baseline solution for the Titanic competition on kaggle. I've already solved this problem before, but today I've decided to improve the code. And I managed to get into the top 5%.
+
 May 21, Monday. [Day 2](Day_2)
 
 **Today's Progress**: Function to translate text from Russian to English, work with the function walk(), Markov chain.
