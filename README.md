@@ -1,6 +1,12 @@
 # Week 1
 
-May 22, Sunday. [Day 3](Day_3)
+May 23, Wednesday. [Day 4](Day_4)
+
+**Today's Progress**: Worked with the data, drawing a map, doing the animation using magick package.
+
+**Thoughts** Today I did a lot of work with the data on the average length of sick leaves in all regions of Russia from 2014 to 2017, put the data on the map and did the animation using the magick package.
+
+May 22, Tuesday. [Day 3](Day_3)
 
 **Today's Progress**: Baseline for the Titanic competition on kaggle.
 
