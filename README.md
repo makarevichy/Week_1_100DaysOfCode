@@ -1,5 +1,11 @@
 # Week 1
 
+May 24, Thursday. [Day 5](Day_5)
+
+**Today's Progress**: Worked in ggmap package.
+
+**Thoughts** Today I worked with ggmap package. He put on the map a [list](https://support.spatialkey.com/spatialkey-sample-csv-data/) of 985 real estate transactions in the Sacramento area, registered for five days.
+
 May 23, Wednesday. [Day 4](Day_4)
 
 **Today's Progress**: Worked with the data, drawing a map, doing the animation using magick package.
