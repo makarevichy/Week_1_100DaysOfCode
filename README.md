@@ -1,5 +1,11 @@
 # Week 1
 
+### May 26, Saturday. [Day 7](Day_7)
+
+**Today's Progress**: Again play with the functions.
+
+**Thoughts** Wow!!! Seven days of [#100DaysOfCode](https://twitter.com/hashtag/100daysofcode?src=hash). It's invigorating!) Today I decided to write an analogue of the waffle function from the same package, only with the help of basic graphics. Managed only part of the function, I will continue tomorrow!
+
 ### May 25, Friday. [Day 6](Day_6)
 
 **Today's Progress**: Today I played with functions.
